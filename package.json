@@ -1,0 +1,19 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "## Developing",
+  "main": "color-switch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeoniss/goit-js-hw-11-color-switch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeoniss/goit-js-hw-11-color-switch/issues"
+  },
+  "homepage": "https://github.com/zeoniss/goit-js-hw-11-color-switch#readme"
+}
